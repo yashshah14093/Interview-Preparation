@@ -1,0 +1,33 @@
+Given a list of integers nums, return whether you can divide the list into two groups a and b such that:
+
+The sum of a and the sum of b are equal.
+Every number in a is strictly less than every number in b.
+
+
+Constraints
+
+n ≤ 100,000 where n is the length of nums.
+
+
+
+Example 1
+
+Input
+
+nums = [4, 9, 5]
+
+Output
+
+true
+
+
+
+Example 2
+
+Input
+
+nums = [9, 9]
+
+Output
+
+false
